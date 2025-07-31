@@ -5,7 +5,9 @@ An intelligent tool that evaluates resumes using AI, offering compatibility scor
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Built with Puter.js](https://img.shields.io/badge/Built%20with-Puter.js-6e48aa)](https://docs.puter.com/)
 
-🔗 **GitHub Repo**: [github.com/Yashvi01111001/AI_Resume_Analyzer](https://github.com/Yashvi01111001/AI_Resume_Analyzer)
+🔗 **GitHub Repo**: [AI_Resume_Analyzer Repo](https://github.com/Yashvi01111001/AI_Resume_Analyzer)
+
+🔗 **Live Demo**: [AI_Resume_Analyzer Live Demo](https://airesumeanalyzer-production.up.railway.app)
 
 ---
 
