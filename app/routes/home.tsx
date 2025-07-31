@@ -7,7 +7,7 @@
 
 export function meta({}: Route.MetaArgs) {
   return [
-    { title: "Resumind" },
+    { title: "Deepcept AI Resume Analyzer" },
     { name: "description", content: "Smart feedback for your next job!" },
   ];
 }
